@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4fae149be4a6e97d31c5d3b1",
+  "owner": "xnrpndtpw",
+  "repo": "page-14848aef81888090fc42ce1e",
+  "title": "可乐云(ColaCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "14848aef81888090fc42ce1e",
+      "a": "可乐云(ColaCloud)",
+      "b": "2027最新官网",
+      "entity": "可乐云(ColaCloud)",
+      "brand": "可乐云(ColaCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a042c246c3716805cc0c4c781da6b06447f9b7adc4b039bfa600430d7423a996",
+      "content": {
+        "primary_entity": "可乐云(ColaCloud)",
+        "keyword1": "可乐云(ColaCloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选对应客户端，导入订阅即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，就能开始使用可乐云(ColaCloud)的加速服务。",
+          "AI_CLOSING_TITLE": "开始配置可乐云(ColaCloud)",
+          "AI_DESCRIPTION": "，可乐云(ColaCloud)针对海外访问场景提供多档订阅，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并优化 IPLC 专线游戏线路，团队版每月 1000GB、支持 20 台设备，按年付可享更低的折合月费。不同设备可选用对应的订阅客户端，导入节点信息后即可连接。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个方面对比，找到适合日常使用的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量挑选。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台的设备额度，按常用设备数量决定。",
+          "AI_FEATURE_TEXT_3": "按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，周期越长折合月费越低。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，按三个步骤操作即可。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "可乐云(ColaCloud)提供多档海外加速订阅，根据每月流量、设备数量和线路需求选择基础版、旗舰版或团队版，按年付可享更低折合月费。",
+          "AI_HERO_SUBTITLE": "多档订阅，灵活适配设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付折合月费更划算",
+          "AI_PLANS_INTRO": "基础版、旗舰版、团队版在流量、设备数和线路优化上逐级提升，按使用规模对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合每月流量、常用设备数量和线路需求，在基础版、旗舰版、团队版中确定档位。",
+          "AI_STEP_TEXT_2": "核对订阅周期与设备额度，确认当前客户端是否支持导入节点配置。",
+          "AI_STEP_TEXT_3": "依照所选客户端提供的文档，把订阅信息导入并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "可乐云(ColaCloud)海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "可乐云套餐的流量每月会清零吗？",
+          "AI_FAQ_ANSWER_1": "可乐云套餐按自然月重置流量，基础版 100GB、旗舰版 300GB、团队版 1000GB，当月未用完的部分不结转至下月，建议按实际用量选档。",
+          "AI_FAQ_QUESTION_2": "三档套餐分别支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。同时在线设备超出上限时，部分设备会被断开，按常用设备数量选套餐可以避免。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线节点，针对游戏加速和低延迟场景做了优化，同时提供全节点原生流媒体解锁与 7x24 优先工单支持，适合对线路质量有要求的用户。",
+          "AI_FAQ_QUESTION_4": "年付和月付的差别在哪里？",
+          "AI_FAQ_ANSWER_4": "年付按 10 个月计价，基础版 150 元/年、旗舰版 350 元/年、团队版 850 元/年，相比按月支付可省下两个月费用，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_5": "团队版支持企业定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版提供企业定制路由与专属客户经理服务，并可使用 VIP 专属高带宽节点，适合多人协作或对路由有特殊要求的团队选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hzmyb.cn",
+    "host": "hzmyb.cn"
+  },
+  "file_hashes": {
+    "index.html": "b688c6236590fa53f4f1800406b9674b0f1cbb910268421200cecac302463ba8",
+    "sitemap.xml": "ce5cb38d68ade0a9fdc84dd31a6f3d5d2c672ee46efeaf6faef8ec1c33e95ef7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7814e19ec0d3da58ad05bbc7420c7b5996e1c325886cc2b32953cb382a1c9dc3",
+    "robots.txt": "8dee886e4454044e404b9e9ebd8ad7c9701860458671e2ac4717a4c4012e4eb6",
+    "663bb731ef45630119c9d1e415a48b92.txt": "b66a989475366163baf058332932aac9936e3e97faf6e9a9247126f9896458ca"
+  },
+  "revision": "958724c16c6bcabb230c273deb3abc20b88d12fea49aa2ef38eb09ab46fdb608"
+}
